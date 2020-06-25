@@ -38,12 +38,20 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
+# more_title: Language
+more_content: | # this will include new lines to allow paragraphs
+  I can speak 3 languages
+   - Vietnamese - Mother tounge
+   - English - Ielts 5.5
+   - Japanese - N4
+   
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Gaming
    - Fooball
    - Comic
+
 
 # Footer
 footer_show_references: true
