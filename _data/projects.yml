@@ -1,7 +1,6 @@
 - layout: top-middle
   name: This is my some projects about web app.
-  link: https://batman-live.herokuapp.com/
-        google.com
+  link: https://batman-live.herokuapp.com/ <br /> google.com
   
   github: suskull/ShoppingApp
   quote: >
