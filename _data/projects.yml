@@ -1,7 +1,6 @@
 - layout: top-middle
   name: This is my some projects about web app.
   link: https://batman-live.herokuapp.com/
-  link: https://batman-live.herokuapp.com/
   github: suskull/ShoppingApp
   quote: >
     This is my simple website that i use Reactjs, HTML,SCSS,Firebase to develop.
