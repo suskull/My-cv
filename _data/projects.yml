@@ -1,12 +1,14 @@
 - layout: top-middle
   name: This is my some projects about web app.
   link: https://batman-live.herokuapp.com/
-  
   github: suskull/ShoppingApp
   quote: >
     This is my simple website that i use Reactjs, HTML,SCSS,Firebase to develop.
   description: | # this will include new lines to allow paragraphs
     I started this project as since as i am learning <mark>React</mark> course in udemy. And i have done many other simple project that you can see in my github repositories.
-    This is my some of simple web app that i've done 
-     - <http://google.com/>
+    This is my some of simple web that i've done
+     - <https://suskull.github.io/TravelWeb/>
+     - <https://suskull.github.io/Booking-site/>
+    ... and some in my github
+    
   
